@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/WEATHER-CLI/issues"
   },
-  "homepage": "https://github.com/alestor123/WEATHER-CLI#readme"
+  "homepage": "https://github.com/alestor123/WEATHER-CLI#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
